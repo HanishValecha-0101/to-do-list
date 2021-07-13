@@ -1,2 +1,1 @@
-# to-do-list.github.io
-Fully functional todolist
+Your day to day todolist
